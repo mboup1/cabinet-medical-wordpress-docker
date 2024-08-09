@@ -1,0 +1,4 @@
+[08-Aug-2024 19:56:46 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1130): Host '172.25.0.3' is not allowed to connect to this MySQL server in /var/www/html/wp-includes/class-wpdb.php on line 1982
+[08-Aug-2024 19:56:48 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1130): Host '172.25.0.3' is not allowed to connect to this MySQL server in /var/www/html/wp-includes/class-wpdb.php on line 1982
+[08-Aug-2024 19:56:49 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1130): Host '172.25.0.3' is not allowed to connect to this MySQL server in /var/www/html/wp-includes/class-wpdb.php on line 1982
+[08-Aug-2024 19:56:49 UTC] PHP Warning:  mysqli_real_connect(): (HY000/1130): Host '172.25.0.3' is not allowed to connect to this MySQL server in /var/www/html/wp-includes/class-wpdb.php on line 1982
